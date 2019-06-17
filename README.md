@@ -1,3 +1,3 @@
 # control_repo
 
-#this i a redme file
+#this i a readme file
